@@ -9,9 +9,12 @@ Open your terminal and go to the project folder:
 ```
 cd login-signup
 
+npm install react-scripts --save
+
 Start the development server:
 
-npm start
+npm start or npm run build
+
 ```
 Open your browser at:
 
