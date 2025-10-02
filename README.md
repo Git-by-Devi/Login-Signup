@@ -1,18 +1,18 @@
-Login & Signup App
+# Login & Signup App
 
 This is a simple React project built using Create React App.
 It includes a login and signup form with a clean UI.
 
-How to Run:
+## How to Run:
 
 Open your terminal and go to the project folder:
-
+```
 cd login-signup
 
 Start the development server:
 
 npm start
-
+```
 Open your browser at:
 
 http://localhost:5000
